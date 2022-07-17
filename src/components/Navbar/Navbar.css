@@ -1,0 +1,7 @@
+li{
+    font-weight: bold;
+}
+
+li:hover{
+    font-size: larger;
+}
